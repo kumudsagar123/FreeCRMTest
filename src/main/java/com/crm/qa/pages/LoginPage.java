@@ -46,5 +46,7 @@ public class LoginPage extends TestBase {
 		loginbtn.click();
 		return new HomePage();
 	}
-	
+	public void logittest(){
+		
+	}
 }
